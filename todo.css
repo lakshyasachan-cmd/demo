@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #cecece;
+    margin: 0;
+    padding: 0;
+}
+.app{
+    width: 30%;
+    margin: 100px auto;
+    overflow:auto;
+    padding: 50px;
+    background: #ffffff;
+    border-radius:15px;
+    box-shadow: rgb(14, 8, 8);
+    text-align:center;
+}
+h1{
+    margin-bottom:50px;
+}
+button{
+    cursor:pointer;
+}
+#task-list{
+    list-style-type: none;
+    padding: 0;
+}
